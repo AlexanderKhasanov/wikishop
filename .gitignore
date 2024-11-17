@@ -2,7 +2,7 @@
 data/features.csv
 # datasets
 data/toxic_comments.csv
-
+data/data_clean.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
